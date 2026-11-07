@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="ai-banner-slower.gif" width="100%" alt="Animated AI Technology Banner"/>
+<img src="ai-banner-cropped.gif" width="100%" alt="AI Animated Banner"/>
 
 <br/>
 
